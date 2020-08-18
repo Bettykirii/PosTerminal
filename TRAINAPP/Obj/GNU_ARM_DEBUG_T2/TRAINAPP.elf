@@ -1,0 +1,20 @@
+Obj/GNU_ARM_DEBUG_T2/TRAINAPP.axf  :
+section             size      addr
+.text             109708         0
+.rodata            15564    109708
+.data               3696   2097152
+.bss               81288   2100848
+.ARM.attributes       16         0
+.comment              35         0
+.debug_abbrev      14900         0
+.debug_info       128006         0
+.debug_line        19610         0
+.debug_frame       12248         0
+.debug_pubnames    22841         0
+.debug_aranges      1632         0
+.debug_str         30388         0
+.debug_loc         54309         0
+.debug_ranges       1848         0
+Total             496089
+
+
